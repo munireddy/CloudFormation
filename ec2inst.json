@@ -7,7 +7,7 @@
             "Properties": {
                 "InstanceType": "t2.micro",
                 "KeyName": "cZSecurityKey01",
-                "ImageId": "ami-0df2ea5740105c299muni"
+                "ImageId": "ami-0fc20dd1da406780b"
             }
         }
     },
